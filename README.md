@@ -6,7 +6,9 @@ This project analyzes Blinkit (formerly Grofers) dataset to explore **sales perf
 The dataset contains information about items, outlets, and their sales performance.
 
 ![Boxplot of Outlet Establishment Year vs Sales](https://github.com/yashraikwar-prog/BlinkIT-Data-Analysis-Using-Python-Libraries/blob/main/Boxplot%20Outlet%20Establish%20Year.png)
-
+![Correlation Heatmap](https://github.com/yashraikwar-prog/BlinkIT-Data-Analysis-Using-Python-Libraries/blob/main/Correlation%20Heatmap.png)
+![Count of Item Types](https://github.com/yashraikwar-prog/BlinkIT-Data-Analysis-Using-Python-Libraries/blob/main/Count%20of%20Item%20Type.png)
+![Distribution of Outlet Establishment Year](https://github.com/yashraikwar-prog/BlinkIT-Data-Analysis-Using-Python-Libraries/blob/main/Distribution%20of%20Outlet%20Establishment%20Year.png)
 
 ### 🔑 Key Columns
 
