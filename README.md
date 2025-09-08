@@ -2,10 +2,11 @@
 
 This project analyzes Blinkit (formerly Grofers) dataset to explore **sales performance, product distribution, outlet characteristics, and customer preferences**. Using **Python and data visualization libraries**, the analysis provides insights into trends that can guide business decisions.
 
-
 ## 📂 Dataset Overview
-
 The dataset contains information about items, outlets, and their sales performance.
+
+![Boxplot of Outlet Establishment Year vs Sales](https://github.com/yashraikwar-prog/BlinkIT-Data-Analysis-Using-Python-Libraries/blob/main/Boxplot%20Outlet%20Establish%20Year.png)
+
 
 ### 🔑 Key Columns
 
